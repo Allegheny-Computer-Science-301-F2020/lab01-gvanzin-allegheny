@@ -1,14 +1,14 @@
 ## Lab 1 Assignment:
 ### Researching and Reporting on Database Tools
-#### Name:
-#### Date:
+#### Name: Garrison Vanzin
+#### Date: 9/24/2020
 
 ### Article 1
- -  Article name.
- - Your answer here
+-  Article name.
+ - DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web
 
 -  Reference or article citation.
- - Your answer here
+ - https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web
 
 - Briefly describe the article's premise.
  - Your answer here
@@ -27,11 +27,11 @@
 
 
 ### Article 2
- -  Article name.
- - Your answer here
+-  Article name.
+ - Privacy organisations raise concerns over new Test and Trace data collection programme
 
 -  Reference or article citation.
- - Your answer here
+ - https://tech.newstatesman.com/security/privacy-organisations-raise-concerns-over-new-test-and-trace-data-collection-programme
 
 - Briefly describe the article's premise.
  - Your answer here
@@ -51,3 +51,4 @@
 
 
 #### Did you remember to add your name to this document?
+Always
